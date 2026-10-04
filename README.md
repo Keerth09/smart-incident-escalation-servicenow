@@ -294,6 +294,7 @@ The project demonstrates practical ServiceNow development across:
 
 ## Author
 
-**Lokesh Avulapati**
+**Avula Keerthana**
 
 ServiceNow ITSM | JavaScript | Business Rules | Script Includes | GlideRecord | GlideAggregate | Flow Designer | SLA | Problem Management
+
